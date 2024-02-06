@@ -7,8 +7,9 @@ Front end Developer
 
 Frontend Developer  in web designing and UI development using latest web technologies. Highly skilled in wire-framing, designing, and developing creative digital experiences using professional HTML | CSS | tailwind| JavaScript | Bootstrap | ReactJS practices. 👨‍💻 Turning Visuals into Working Prototypes 👨‍💻
 
-- ✉️  You can contact me at [kiarash.poudeh@yahoo.com](kiarash.poudeh@yahoo.com)
-- 🧠  I'm learning NextJS
+- 📞 You can contact me with number 0911-307-8615
+- ✉️  My email is [kiarash.poudeh@yahoo.com](kiarash.poudeh@yahoo.com)
+- 🧠  I'm learning NextJS , and managing huge projects.
 - 🤝  I'm open to collaborating on React and javascript based projects
 
 ### Skills
