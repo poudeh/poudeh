@@ -1,4 +1,4 @@
-Hi 🙋‍♂️ My name is Kiarash Poudeh
+Hi  My name is Kiarash Poudeh
 ======
 
 Front end Developer
