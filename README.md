@@ -15,7 +15,7 @@ FullStack Developer  in web designing and UI development using latest web techno
 - 📞 You can contact me with number 0911-307-8615
 - ✉️  My email is [kiarash.poudeh@yahoo.com](kiarash.poudeh@yahoo.com)
 - 🧠  I'm learning NextJS , and managing huge projects.
-- 🤝  I'm open to collaborating on React and javascript based projects
+- 🤝  I'm open to collaborating on net javascript projects
 
 ### Skills
 
