@@ -20,7 +20,7 @@ FullStack Developer  in web designing and UI development using latest web techno
 
 ### Skills
 
-<p align="left">
+<div align="center">
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/sabzlearn-ir/sabzlearn-ir/4d2a781931f79c747a132c28eae4ebfbb8eaa7d7/javascript-colored.svg" width="36" height="36" alt="Javascript" /></a>
   <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/sabzlearn-ir/sabzlearn-ir/4d2a781931f79c747a132c28eae4ebfbb8eaa7d7/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/sabzlearn-ir/sabzlearn-ir/4d2a781931f79c747a132c28eae4ebfbb8eaa7d7/react-colored.svg" width="36" height="36" alt="React" /></a>
@@ -31,7 +31,7 @@ FullStack Developer  in web designing and UI development using latest web techno
   <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/poudeh/poudeh/9ee4117f1ab8da05a4f1d2a8dcb23195c6a3647a/tailwind-css.svg" width="36" height="36" alt="Tailwind CSS" /></a>
   <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/1/17/C_Sharp_Icon.png" width="36" height="36" alt="C#" /></a>
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRL3uFEyeveell3N2QYYeBc_cXjMHprzY26bg&s" width="36" height="36" alt="Git" /></a>
-</p>
+</div>
 
 ---
 
