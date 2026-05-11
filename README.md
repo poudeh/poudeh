@@ -16,6 +16,7 @@ FullStack Developer  in web designing and UI development using latest web techno
 - ✉️  My email is [kiarash.poudeh@yahoo.com](kiarash.poudeh@yahoo.com)
 - 🧠  I'm learning NextJS , and managing huge projects.
 - 🤝  I'm open to collaborating on net javascript projects
+- به علت حق و حقوق شرکت ها امکان گذاشتن کد فروشگاه زرین برگ , نیرو موتورز گودرزی و توتال سیستم ساجیران رو ندارم. 
 
 ### Skills
 
@@ -28,8 +29,8 @@ FullStack Developer  in web designing and UI development using latest web techno
     <a href="https://redux.js.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/sabzlearn-ir/sabzlearn-ir/4d2a781931f79c747a132c28eae4ebfbb8eaa7d7/redux-colored.svg" width="36" height="36" alt="Redux" /></a>
     <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/sabzlearn-ir/sabzlearn-ir/4d2a781931f79c747a132c28eae4ebfbb8eaa7d7/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>
     <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/poudeh/poudeh/9ee4117f1ab8da05a4f1d2a8dcb23195c6a3647a/tailwind-css.svg" width="36" height="36" alt="MySQL" /></a>
-        <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/1/17/C_Sharp_Icon.png" width="36" height="36" alt="MySQL" /></a>
-        <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRL3uFEyeveell3N2QYYeBc_cXjMHprzY26bg&s" width="36" height="36" alt="MySQL" /></a>
+    <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/1/17/C_Sharp_Icon.png" width="36" height="36" alt="MySQL" /></a>
+    <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRL3uFEyeveell3N2QYYeBc_cXjMHprzY26bg&s" width="36" height="36" alt="MySQL" /></a>
 
 </p>
 
