@@ -20,18 +20,18 @@ FullStack Developer  in web designing and UI development using latest web techno
 
 ### Skills
 
-<div align="center">
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer" style="display: inline-block; margin: 5px;"><img src="https://raw.githubusercontent.com/sabzlearn-ir/sabzlearn-ir/4d2a781931f79c747a132c28eae4ebfbb8eaa7d7/javascript-colored.svg" width="36" height="36" alt="Javascript" /></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer" style="display: inline-block; margin: 5px;"><img src="https://raw.githubusercontent.com/sabzlearn-ir/sabzlearn-ir/4d2a781931f79c747a132c28eae4ebfbb8eaa7d7/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer" style="display: inline-block; margin: 5px;"><img src="https://raw.githubusercontent.com/sabzlearn-ir/sabzlearn-ir/4d2a781931f79c747a132c28eae4ebfbb8eaa7d7/react-colored.svg" width="36" height="36" alt="React" /></a>
-  <a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer" style="display: inline-block; margin: 5px;"><img src="https://raw.githubusercontent.com/sabzlearn-ir/sabzlearn-ir/4d2a781931f79c747a132c28eae4ebfbb8eaa7d7/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
-  <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer" style="display: inline-block; margin: 5px;"><img src="https://raw.githubusercontent.com/sabzlearn-ir/sabzlearn-ir/4d2a781931f79c747a132c28eae4ebfbb8eaa7d7/bootstrap-colored.svg" width="36" height="36" alt="Bootstrap" /></a>
-  <a href="https://redux.js.org/" target="_blank" rel="noreferrer" style="display: inline-block; margin: 5px;"><img src="https://raw.githubusercontent.com/sabzlearn-ir/sabzlearn-ir/4d2a781931f79c747a132c28eae4ebfbb8eaa7d7/redux-colored.svg" width="36" height="36" alt="Redux" /></a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer" style="display: inline-block; margin: 5px;"><img src="https://raw.githubusercontent.com/sabzlearn-ir/sabzlearn-ir/4d2a781931f79c747a132c28eae4ebfbb8eaa7d7/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>
-  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer" style="display: inline-block; margin: 5px;"><img src="https://raw.githubusercontent.com/poudeh/poudeh/9ee4117f1ab8da05a4f1d2a8dcb23195c6a3647a/tailwind-css.svg" width="36" height="36" alt="Tailwind CSS" /></a>
-  <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer" style="display: inline-block; margin: 5px;"><img src="https://upload.wikimedia.org/wikipedia/commons/1/17/C_Sharp_Icon.png" width="36" height="36" alt="C#" /></a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer" style="display: inline-block; margin: 5px;"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRL3uFEyeveell3N2QYYeBc_cXjMHprzY26bg&s" width="36" height="36" alt="Git" /></a>
-</div>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/sabzlearn-ir/sabzlearn-ir/4d2a781931f79c747a132c28eae4ebfbb8eaa7d7/javascript-colored.svg" width="36" height="36" alt="Javascript" />&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/sabzlearn-ir/sabzlearn-ir/4d2a781931f79c747a132c28eae4ebfbb8eaa7d7/html5-colored.svg" width="36" height="36" alt="HTML5" />&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/sabzlearn-ir/sabzlearn-ir/4d2a781931f79c747a132c28eae4ebfbb8eaa7d7/react-colored.svg" width="36" height="36" alt="React" />&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/sabzlearn-ir/sabzlearn-ir/4d2a781931f79c747a132c28eae4ebfbb8eaa7d7/css3-colored.svg" width="36" height="36" alt="CSS3" />&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/sabzlearn-ir/sabzlearn-ir/4d2a781931f79c747a132c28eae4ebfbb8eaa7d7/bootstrap-colored.svg" width="36" height="36" alt="Bootstrap" />&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/sabzlearn-ir/sabzlearn-ir/4d2a781931f79c747a132c28eae4ebfbb8eaa7d7/redux-colored.svg" width="36" height="36" alt="Redux" />&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/sabzlearn-ir/sabzlearn-ir/4d2a781931f79c747a132c28eae4ebfbb8eaa7d7/mysql-colored.svg" width="36" height="36" alt="MySQL" />&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/poudeh/poudeh/9ee4117f1ab8da05a4f1d2a8dcb23195c6a3647a/tailwind-css.svg" width="36" height="36" alt="Tailwind CSS" />&nbsp;&nbsp;
+  <img src="https://upload.wikimedia.org/wikipedia/commons/1/17/C_Sharp_Icon.png" width="36" height="36" alt="C#" />&nbsp;&nbsp;
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRL3uFEyeveell3N2QYYeBc_cXjMHprzY26bg&s" width="36" height="36" alt="Git" />
+</p>
 
 ---
 
